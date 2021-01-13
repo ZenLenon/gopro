@@ -1,276 +1,152 @@
-
-
-[
-	{
-		"identifier":"Portrait_FTU_Contextual_MediaMod_CPY",
-		"english":"The mic is set to Front. Tap video settings to change it or set up a shortcut.",
-		"ptBR":"O microfone está con~fi~gu~ra~do para Frente. Toque nas con~fi~gu~ra~ções de vídeo para alterar ou definir um atalho.",
-		"zhCN":"已将麦克风设置为^前向。^点击^视频设置^对其进行^更改或^设置^快捷方式。",
-		"deDE":"Das Mikro ist auf Vor~der~sei~te ein~ge~stellt. Tippe auf die Video~ein~stel~lun~gen, um das zu ändern oder einen Shortcut ein~zu~richten.",
-		"esES":"El micrófono activado es el frontal. Toca en los ajustes de vídeo para cambiarlo o configurar un acceso directo.",
-		"frFR":"Le micro est réglé sur Avant. Appuyez sur les paramètres vidéo pour modifier ce réglage ou créer un raccourci.",
-		"itIT":"Il microfono è impostato su Anteriore. Tocca le impostazioni video per modificare o impostare una scorcia~toia.",
-		"jaJP":"マイクは^前面に^設定されて^います。^変更するか、^ショートカットを^設定する^場合は、^ビデオ設定を^タップします。",
-		"koKR":"마이크는 전면으로 설정되어 있습니다. 변경하거나 바로 가기를 설정하려면 동영상 설정을 탭하세요.",
-		"ruRU":"Задан фрон~таль~ный микрофон. Коснитесь настроек видео, чтобы изменить это или настроить ярлык.",
-		"svSE":"Mikrofonen är inställd på Framsida. Tryck på video~inställ~ning~arna för att ändra inställ~ningen eller skapa en genväg.",
-		"zhTW":"麥克風設定為前方。^點選^影片設定以變更^或^設定捷徑。"
-		
-	},
-
-	{
-		"identifier":"Portrait_FTU_Contextual_MediaMod_HDR",
-		"english":"MEDIA MOD\nCONNECTED",
-		"ptBR":"MÓDULO DE MÍDIA ~CONECTADO",
-		"zhCN":"媒体选配组件^已连接",
-		"deDE":"MEDIA MOD VERBUNDEN",
-		"esES":"MÓDULO MULTI~MEDIA CONECTADO",
-		"frFR":"MODULE MÉDIAS CONNECTÉ",
-		"itIT":"UNITÀ MULTI~MEDIALE OPZIONALE CONNESSA",
-		"jaJP":"メディア モジュラーを^接続しました",
-		"koKR":"미디어 모듈 연결됨",
-		"ruRU":"МЕ~ДИА~МО~ДУЛЬ ПОДКЛЮЧЕН",
-		"svSE":"MEDIAMODUL ANSLUTEN",
-		"zhTW":"已連接媒體模組"
-		
-	},
-
-	{
-		"identifier":"Landscape_FTU_Contextual_MediaMod_CPY",
-		"english":"The mic is set to Front. Tap video settings to change it or set up a shortcut.",
-		"ptBR":"O microfone está con~fi~gu~ra~do para Frente. Toque nas con~fi~gu~ra~ções de vídeo para alterar ou definir um atalho.",
-		"zhCN":"已将麦克风设置为^前向。^点击^视频设置^对其进行^更改或^设置^快捷方式。",
-		"deDE":"Das Mikro ist auf Vor~der~sei~te ein~ge~stellt. Tippe auf die Video~ein~stel~lun~gen, um das zu ändern oder einen Shortcut ein~zu~richten.",
-		"esES":"El micrófono activado es el frontal. Toca en los ajustes de vídeo para cambiarlo o configurar un acceso directo.",
-		"frFR":"Le micro est réglé sur Avant. Appuyez sur les paramètres vidéo pour modifier ce réglage ou créer un raccourci.",
-		"itIT":"Il microfono è impostato su Anteriore. Tocca le impo~stazioni video per modificare o impostare una scorcia~toia.",
-		"jaJP":"マイクは^前面に^設定されて^います。^変更するか、^ショートカットを^設定する^場合は、^ビデオ設定を^タップします。",
-		"koKR":"마이크는 전면으로 설정되어 있습니다. 변경하거나 바로 가기를 설정하려면 동영상 설정을 탭하세요.",
-		"ruRU":"Задан фрон~таль~ный микрофон. Коснитесь настроек видео, чтобы изменить это или настроить ярлык.",
-		"svSE":"Mikrofonen är inställd på Framsida. Tryck på video~inställ~ning~arna för att ändra inställ~ningen eller skapa en genväg.",
-		"zhTW":"麥克風設定為前方。^點選^影片設定以變更^或^設定捷徑。"
-		
-	},
-
-	{
-		"identifier":"Landscape_FTU_Contextual_MediaMod_HDR",
-		"english":"MEDIA MOD CONNECTED",
-		"ptBR":"MÓDUO DE MÍDIA CONECTADO",
-		"zhCN":"媒体选配组件已连接",
-		"deDE":"MEDIA MOD VERBUNDEN",
-		"esES":"MÓDULO MULTI~MEDIA CONECTADO",
-		"frFR":"MODULE MÉDIAS CONNECTÉ",
-		"itIT":"UNITÀ MULTI~MEDIALE OPZIONALE CONNESSA",
-		"jaJP":"メディア モジュラーを^接続しました",
-		"koKR":"미디어 모듈 연결됨",
-		"ruRU":"МЕ~ДИА~МО~ДУЛЬ ПОДКЛЮЧЕН",
-		"svSE":"MEDIAMODUL ANSLUTEN",
-		"zhTW":"已連接媒體模組"
-		
-	},
-
-	{
-		"identifier":"Portrait_FTU_Contextual_Dashboard_CPY",
-		"english":"Swipe down to manage preferences.",
-		"ptBR":"Deslize para baixo para gerenciar as pre~fe~rên~cias.",
-		"zhCN":"向下轻扫以管理^首选项。",
-		"deDE":"Nach unten wischen, um Ein~stel~lun~gen zu verwalten.",
-		"esES":"Desliza hacia abajo para gestionar las preferen~cias.",
-		"frFR":"Balayez vers le bas pour gérer vos pré~fé~rences.",
-		"itIT":"Scorri verso il basso per gestire le pre~ferenze.",
-		"jaJP":"下方向に^スワイプして^ユーザー設定を^管理します。",
-		"koKR":"기본 설정을 관리하려면 아래로 살짝 밉니다.",
-		"ruRU":"Смахните вниз, чтобы изменить параметры.",
-		"svSE":"Dra nedåt om du vill hantera inställ~ningar.",
-		"zhTW":"向下撥動可管理^偏好^設定。"
-		
-	},
-
-	{
-		"identifier":"Portrait_FTU_Contextual_Dashboard_HDR",
-		"english":"CHECK OUT YOUR DASHBOARD",
-		"ptBR":"CONFIRA O SEU PAINEL",
-		"zhCN":"查看您的面板",
-		"deDE":"ZUM DASHBOARD",
-		"esES":"REVISA TU PANEL",
-		"frFR":"VOIR VOTRE TABLEAU DE BORD",
-		"itIT":"CONSULTA LA DASHBOARD",
-		"jaJP":"ダッシュボードの^確認",
-		"koKR":"대시보드 확인",
-		"ruRU":"ОТКРЫТЬ ПАНЕЛЬ УПРАВЛЕНИЯ",
-		"svSE":"ÖPPNA INSTRU~MENT~PANELEN",
-		"zhTW":"查看您的儀表板"
-		
-	},
-
-	{
-		"identifier":"Landscape_FTU_Contextual_Dashboard_CPY",
-		"english":"Swipe down to manage preferences.",
-		"ptBR":"Deslize para baixo para gerenciar as pre~fe~rên~cias.",
-		"zhCN":"向下轻扫以管理^首选项。",
-		"deDE":"Nach unten wischen, um Ein~stel~lun~gen zu verwalten.",
-		"esES":"Desliza hacia abajo para gestionar las preferen~cias.",
-		"frFR":"Balayez vers le bas pour gérer vos pré~fé~rences.",
-		"itIT":"Scorri verso il basso per gestire le prefe~renze.",
-		"jaJP":"下方向に^スワイプして^ユーザー設定を^管理します。",
-		"koKR":"기본 설정을 관리하려면 아래로 살짝 밉니다.",
-		"ruRU":"Смахните вниз, чтобы изменить параметры.",
-		"svSE":"Dra nedåt om du vill hantera inställ~ningar.",
-		"zhTW":"向下撥動可管理^偏好^設定。"
-		
-	},
-
-	{
-		"identifier":"Landscape_FTU_Contextual_Dashboard_HDR",
-		"english":"CHECK OUT YOUR DASHBOARD",
-		"ptBR":"CONFIRA O SEU PAINEL",
-		"zhCN":"查看您的面板",
-		"deDE":"ZUM DASHBOARD",
-		"esES":"REVISA TU PANEL",
-		"frFR":"VOIR VOTRE TABLEAU DE BORD",
-		"itIT":"CONSULTA LA DASHBOARD",
-		"jaJP":"ダッシュボードの^確認",
-		"koKR":"대시보드 확인",
-		"ruRU":"ОТКРЫТЬ ПАНЕЛЬ УПРАВЛЕНИЯ",
-		"svSE":"ÖPPNA INSTRU~MENT~PANELEN",
-		"zhTW":"查看您的儀表板"
-		
-	},
-
-	{
-		"identifier":"Portrait_FTU_Contextual_CheckGallery_CPY",
-		"english":"Swipe up to see the\nphotos and videos \non your GoPro.",
-		"ptBR":"Deslize para cima para ver as ~fotos e os vídeos ~na sua câmera GoPro.",
-		"zhCN":"向上轻扫以查看 GoPro 上^的照片和^视频。",
-		"deDE":"Nach oben wischen, um Fotos und Videos auf deiner GoPro zu sehen.",
-		"esES":"Desliza hacia arriba para ver las fotos y los vídeos de tu GoPro.",
-		"frFR":"Balayez vers le haut pour afficher les photos et vidéos sur votre GoPro.",
-		"itIT":"Scorri verso l'alto per vedere foto e video sulla GoPro.",
-		"jaJP":"上方向に^スワイプして、^GoPro の^写真と^ビデオを^確認します。",
-		"koKR":"GoPro에서 사진과 동영상을 보려면 위로 살짝 밉니다.",
-		"ruRU":"Смахните вверх, чтобы прос~мот~реть фото и видео, снятые на GoPro.",
-		"svSE":"Dra uppåt om du vill se foton och videor på din GoPro.",
-		"zhTW":"向上撥動可在 GoPro ^上^瀏覽相片和影片。"
-		
-	},
-
-	{
-		"identifier":"Portrait_FTU_Contextual_CheckGallery_HDR",
-		"english":"CHECK OUT YOUR MEDIA",
-		"ptBR":"ASSISTA À SUA MÍDIA",
-		"zhCN":"查看您的媒体文件",
-		"deDE":"ZU DEN MEDIEN",
-		"esES":"REVISA TUS CONTENIDOS",
-		"frFR":"CONSULTER VOS MÉDIAS",
-		"itIT":"GUARDA I TUOI CONTENUTI",
-		"jaJP":"メディアの^確認",
-		"koKR":"미디어 확인",
-		"ruRU":"СМОТРЕТЬ МАТЕРИАЛЫ",
-		"svSE":"TITTA PÅ DINA BILDER",
-		"zhTW":"查看您的媒體"
-		
-	},
-
-	{
-		"identifier":"Landscape_FTU_Contextual_CheckGallery_CPY",
-		"english":"Swipe up to see the photos and videos\non your GoPro.",
-		"ptBR":"Deslize para cima para ver as fotos e os vídeos na sua câmera GoPro.",
-		"zhCN":"向上轻扫以查看 GoPro 上的^照片和^视频。",
-		"deDE":"Nach oben wischen, um die Fotos und Videos auf deiner GoPro zu sehen.",
-		"esES":"Desliza hacia arriba para ver las fotos y vídeos de tu GoPro.",
-		"frFR":"Balayez vers le haut pour afficher les photos et les vidéos sur votre GoPro.",
-		"itIT":"Scorri verso l'alto per vedere foto e video sulla GoPro.",
-		"jaJP":"上方向に^スワイプして、^GoPro の^写真と^ビデオを^確認します。",
-		"koKR":"GoPro에서 사진과 동영상을 보려면 위로 살짝 밉니다.",
-		"ruRU":"Смахните вверх, чтобы прос~мот~реть фото и видео, снятые на GoPro.",
-		"svSE":"Dra uppåt om du vill se foton och videor på din GoPro.",
-		"zhTW":"向上撥動可在 GoPro ^上^瀏覽相片和影片。"
-		
-	},
-
-	{
-		"identifier":"Landscape_FTU_Contextual_CheckGallery_HDR",
-		"english":"CHECK OUT YOUR MEDIA",
-		"ptBR":"ASSISTA À SUA MÍDIA",
-		"zhCN":"查看您的媒体文件",
-		"deDE":"ZU DEN MEDIEN",
-		"esES":"REVISA TUS CONTENIDOS",
-		"frFR":"CONSULTER VOS MÉDIAS",
-		"itIT":"GUARDA I TUOI CONTENUTI",
-		"jaJP":"メディアの^確認",
-		"koKR":"미디어 확인",
-		"ruRU":"СМОТРЕТЬ МАТЕРИАЛЫ",
-		"svSE":"TITTA PÅ DINA BILDER",
-		"zhTW":"查看您的媒體"
-		
-	},
-
-	{
-		"identifier":"Portrait_FTU_Contextual_GetVertical_CPY",
-		"english":"Turn your GoPro to \ncapture photos and videos in portrait orientation.",
-		"ptBR":"Vire a sua GoPro para capturar fotos e vídeos na orientação retrato.",
-		"zhCN":"将 GoPro 固定为纵向^拍摄^照片和^视频。",
-		"deDE":"GoPro drehen, um Fotos und Videos im Hochformat auf~zu~neh~men.",
-		"esES":"Captura fotos y vídeos con tu GoPro en orienta~ción vertical.",
-		"frFR":"Faites pivoter votre GoPro pour des photos et vidéos en o~ri~en~ta~tion portrait.",
-		"itIT":"Ruota la GoPro per acquisire foto e video in formato verticale.",
-		"jaJP":"GoPro の^向きを^変えて、^写真と^ビデオを^縦向きで^撮影します。",
-		"koKR":"사진과 동영상을 세로 모드로 캡처하려면 GoPro를 돌립니다.",
-		"ruRU":"Поверните камеру GoPro, чтобы снимать фото и видео вер~ти~каль~но.",
-		"svSE":"Vrid på din GoPro om du vill ta foton och videoklipp i stående format.",
-		"zhTW":"轉動 GoPro，^以垂直^方向^拍攝相片和影片。"
-		
-	},
-
-	{
-		"identifier":"Portrait_FTU_Contextual_GetVertical_HDR",
-		"english":"GET VERTICAL",
-		"ptBR":"NA VERTICAL",
-		"zhCN":"设为纵向",
-		"deDE":"AB IN DIE VERTIKALE",
-		"esES":"PASA A VERTICAL",
-		"frFR":"O~RI~EN~TA~TION VERTICALE",
-		"itIT":"RUOTA IN VERTICALE",
-		"jaJP":"縦向きにする",
-		"koKR":"세로 사용",
-		"ruRU":"ВЕР~ТИ~КАЛЬ~НАЯ ОРИЕНТАЦИЯ",
-		"svSE":"STÅENDE FORMAT",
-		"zhTW":"變更為垂直"
-		
-	},
-
-	{
-		"identifier":"Landscape_FTU_Contextual_GetVertical_CPY",
-		"english":"Turn your GoPro to capture photos and videos in portrait orientation.",
-		"ptBR":"Vire a sua GoPro para capturar fotos e vídeos na orientação retrato.",
-		"zhCN":"将 GoPro 固定为纵向^拍摄^照片和^视频。",
-		"deDE":"GoPro drehen, um Fotos und Videos im Hochformat auf~zu~neh~men.",
-		"esES":"Captura fotos y vídeos con tu GoPro en orienta~ción vertical.",
-		"frFR":"Faites pivoter votre GoPro pour des photos et vidéos en o~ri~en~ta~tion portrait.",
-		"itIT":"Ruota la GoPro per acquisire foto e video in formato verticale.",
-		"jaJP":"GoPro の^向きを^変えて、^写真と^ビデオを^縦向きで^撮影します。",
-		"koKR":"사진과 동영상을 세로 방향으로 캡처하려면 GoPro를 돌립니다.",
-		"ruRU":"Поверните камеру GoPro, чтобы снимать фото и видео вер~ти~каль~но.",
-		"svSE":"Vrid på GoPro om du vill ta foton och videoklipp i stående format.",
-		"zhTW":"轉動 GoPro，^以垂直^方向^拍攝相片和影片。"
-		
-	},
-
-	{
-		"identifier":"Landscape_FTU_Contextual_GetVertical_HDR",
-		"english":"GET VERTICAL",
-		"ptBR":"NA VERTICAL",
-		"zhCN":"设为纵向",
-		"deDE":"AB IN DIE VERTIKALE",
-		"esES":"PASA A VERTICAL",
-		"frFR":"O~RI~EN~TA~TION VERTICALE",
-		"itIT":"RUOTA IN VERTICALE",
-		"jaJP":"縦向きにする",
-		"koKR":"세로 사용",
-		"ruRU":"ВЕР~ТИ~КАЛЬ~НАЯ ОРИЕНТАЦИЯ",
-		"svSE":"STÅENDE FORMAT",
-		"zhTW":"變更為垂直"
-    
-    	
-	}
-]
+{
+    "Alerts\/Playback\/Portrait\/DeleteFile._Alerts_DialogPlaybackDeleteFilePortrait_": {
+        "translation": "Delete"
+    },
+    "Alerts\/Playback\/Portrait\/DeleteFile._Alerts_DialogPlaybackDeleteFilePortrait__6B299ACC-A2BA-46CC-983C-51328ED04A37\/94074E01-B668-40FE-83B0-94483B8377DD": {
+        "translation": "Keep"
+    },
+    "Alerts\/Playback\/Portrait\/DeleteFile._Alerts_DialogPlaybackDeleteFilePortrait__6B299ACC-A2BA-46CC-983C-51328ED04A37\/5A6DCEC3-50DF-47F0-A537-ADC711FC143C": {
+        "translation": "Are you sure you want to permanently delete this item?"
+    },
+    "Alerts\/Playback\/Portrait\/DeleteFile._Alerts_DialogPlaybackDeleteFilePortrait__6B299ACC-A2BA-46CC-983C-51328ED04A37\/D38E3C73-84A9-48A9-AF4C-BD21BF94DF3A": {
+        "translation": "DELETE?"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro._Grid_Restore_": {
+        "translation": "Restore"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Componets\/Settings\/Grid\/SubHeader": {
+        "translation": "MANAGE PRESET"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare": {
+        "translation": "HiLight Tag"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_0FF5C7C7-AD6B-4534-BCA2-9A22F5F88904\/1D55DECF-1E7C-4DD7-81D4-0A107DD1BA3D": {
+        "translation": "Mode Button"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_6FC9CD72-EE38-46E8-A7D3-E59A95D2D155\/1CBAA9F9-DA0E-47A9-969F-96ECC0642003": {
+        "translation": "Off"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_6FC9CD72-EE38-46E8-A7D3-E59A95D2D155\/1D55DECF-1E7C-4DD7-81D4-0A107DD1BA3D": {
+        "translation": "Upper Right"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_320AA2C9-0A27-4B1C-999B-C28D97080ED2\/1D55DECF-1E7C-4DD7-81D4-0A107DD1BA3D": {
+        "translation": "Upper Left"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_64F41D9E-5E8E-4A9F-9743-6CDD8CC886C7\/1CBAA9F9-DA0E-47A9-969F-96ECC0642003": {
+        "translation": "Zoom"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_64F41D9E-5E8E-4A9F-9743-6CDD8CC886C7\/1D55DECF-1E7C-4DD7-81D4-0A107DD1BA3D": {
+        "translation": "Lower Right"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_66D3CF6A-CBC5-440A-9FB1-B3A7F443A4C6\/1CBAA9F9-DA0E-47A9-969F-96ECC0642003": {
+        "translation": "Lens"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_66D3CF6A-CBC5-440A-9FB1-B3A7F443A4C6\/1D55DECF-1E7C-4DD7-81D4-0A107DD1BA3D": {
+        "translation": "Lower Left"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Componets\/Settings\/Grid\/SubHeader_8AD82773-4AF5-4E98-A342-28B20FC45BD9\/713E7A2C-30E2-48A8-96D9-D95049B2F309": {
+        "translation": "SHORTCUTS"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_7B64B0B7-19A6-42A5-990E-CA1C6213401F\/1CBAA9F9-DA0E-47A9-969F-96ECC0642003": {
+        "translation": "GoPro"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_7B64B0B7-19A6-42A5-990E-CA1C6213401F\/1D55DECF-1E7C-4DD7-81D4-0A107DD1BA3D": {
+        "translation": "Color"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_ADA3947A-7A4B-4110-8508-507D6C5DC57C\/1CBAA9F9-DA0E-47A9-969F-96ECC0642003": {
+        "translation": "High"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_ADA3947A-7A4B-4110-8508-507D6C5DC57C\/1D55DECF-1E7C-4DD7-81D4-0A107DD1BA3D": {
+        "translation": "Sharpness"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_4444C2E3-D569-4349-B06A-D5042CB8BA8F\/1CBAA9F9-DA0E-47A9-969F-96ECC0642003": {
+        "translation": "1600"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_4444C2E3-D569-4349-B06A-D5042CB8BA8F\/1D55DECF-1E7C-4DD7-81D4-0A107DD1BA3D": {
+        "translation": "ISO Max"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_1C7C9C88-CC8E-4F8D-A247-D4B84AF51018\/1CBAA9F9-DA0E-47A9-969F-96ECC0642003": {
+        "translation": "100"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_1C7C9C88-CC8E-4F8D-A247-D4B84AF51018\/1D55DECF-1E7C-4DD7-81D4-0A107DD1BA3D": {
+        "translation": "ISO Min"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_5C9A4598-ED7F-4012-B092-9372C8FC47D1\/1CBAA9F9-DA0E-47A9-969F-96ECC0642003": {
+        "translation": "Auto"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_5C9A4598-ED7F-4012-B092-9372C8FC47D1\/1D55DECF-1E7C-4DD7-81D4-0A107DD1BA3D": {
+        "translation": "White Balance"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_3E672367-157D-4C3E-A712-D99BF788F511\/1CBAA9F9-DA0E-47A9-969F-96ECC0642003": {
+        "translation": "0"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_3E672367-157D-4C3E-A712-D99BF788F511\/1D55DECF-1E7C-4DD7-81D4-0A107DD1BA3D": {
+        "translation": "EV Comp"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Componets\/Settings\/Grid\/SubHeader_1CA5E722-6681-41AE-A5D2-F5CE54965343\/713E7A2C-30E2-48A8-96D9-D95049B2F309": {
+        "translation": "PROTUNE"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_31609D0B-AEA6-4C49-BB29-A5F4009479F5\/1CBAA9F9-DA0E-47A9-969F-96ECC0642003": {
+        "translation": "1.0x"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_032AC595-7C61-4379-8D7E-7C42147E3784\/1D55DECF-1E7C-4DD7-81D4-0A107DD1BA3D": {
+        "translation": "Speed"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_43B0782A-01D7-488B-B1B1-026E35296D20\/1CBAA9F9-DA0E-47A9-969F-96ECC0642003": {
+        "translation": "Wide"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_18B94B0C-AFDB-4791-803D-1B908834C616\/1CBAA9F9-DA0E-47A9-969F-96ECC0642003": {
+        "translation": "1440"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro.Elements\/Settings\/Grid\/SettingSquare_18B94B0C-AFDB-4791-803D-1B908834C616\/1D55DECF-1E7C-4DD7-81D4-0A107DD1BA3D": {
+        "translation": "Resolution"
+    },
+    "Settings\/Lapse\/TimeWarp\/GoPro._Grid_TimeWarpGoPro_": {
+        "translation": "TIMEWARP"
+    },
+    "FTU\/GPS._FTU_GPS_": {
+        "translation": "On"
+    },
+    "FTU\/GPS._FTU_GPS__16B4CD9E-5FBF-42D5-AC68-45F76FE2AC3F\/5E0903D0-C2EF-463F-8474-AF38F1F76C0D": {
+        "translation": "Captures the location where your videos and photos are taken."
+    },
+    "FTU\/GPS._FTU_GPS__5317F678-39FA-4199-AFDE-6A17E44DB093\/FD6B3D9E-5EE4-4342-B148-2CD92F8AC26E": {
+        "translation": "GPS"
+    },
+    "Presets\/Reorder.Components\/Buttons\/Pill\/Submodes": {
+        "translation": "Standard"
+    },
+    "Presets\/Reorder.Components\/Buttons\/Pill\/Submodes_E19FB11B-6F1E-4087-9738-BD6A0351652D\/A862D645-4CE0-4E88-ADA8-B0A5B2BF2BFD": {
+        "translation": "1080 | 60 | N"
+    },
+    "Presets\/Reorder.Components\/Buttons\/Pill\/Submodes_1491DE7A-80CE-416C-84C4-440836C1F4C6\/93C8FEDC-4AE3-4529-A8D0-F1D3D6C6518A": {
+        "translation": "Activity"
+    },
+    "Presets\/Reorder.Components\/Buttons\/Pill\/Submodes_1491DE7A-80CE-416C-84C4-440836C1F4C6\/A862D645-4CE0-4E88-ADA8-B0A5B2BF2BFD": {
+        "translation": "1440 | 60 | W"
+    },
+    "Presets\/Reorder.Components\/Buttons\/Pill\/Submodes_A38190F5-930A-42A9-BDDB-974D112D0187\/A862D645-4CE0-4E88-ADA8-B0A5B2BF2BFD": {
+        "translation": "2.7K | 30 | W"
+    },
+    "Presets\/Reorder.Components\/Buttons\/Pill\/Submodes_A38190F5-930A-42A9-BDDB-974D112D0187\/93C8FEDC-4AE3-4529-A8D0-F1D3D6C6518A": {
+        "translation": "Custom"
+    },
+    "Presets\/Reorder._Presets_DeleteDone_": {
+        "translation": "MANAGE"
+    },
+    "Preferences\/General\/QuikCapture._Preferences_QuikCapture_": {
+        "translation": "Lets you power up and start recording by pressing the Shutter button.\n\nShort press for Video.\nPress and hold for \nTime Lapse."
+    },
+    "Preferences\/General\/QuikCapture._Preferences_QuikCapture__1DD5F0F1-0D45-4169-AAD5-93B57640AA22\/8FF64AA4-B1C2-41AA-ACC2-0EC291D1C8A3": {
+        "translation": "QUIKCAPTURE"
+    },
+    "Settings\/Contextual\/FieldofView\/SuperView._Settings_DigitalLensSuperView_": {
+        "translation": "Widest and tallest field of view, served up as 16:9 video."
+    },
+    "Settings\/Contextual\/FieldofView\/SuperView._Settings_DigitalLensSuperView__C2839C47-EF01-48B0-9FE6-5F0C795D340E\/A8B0F015-BAC9-413B-86BF-167E854B5711": {
+        "translation": "SuperView (16mm)"
+    },
+    "Settings\/Contextual\/FieldofView\/SuperView._Settings_DigitalLensSuperView__C2839C47-EF01-48B0-9FE6-5F0C795D340E\/CFC9562D-9EA4-4086-81ED-8E254E9716FA": {
+        "translation": "DIGITAL LENS"
+    }
+}
